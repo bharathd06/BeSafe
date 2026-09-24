@@ -1,0 +1,12 @@
+venv/
+
+crime.py
+crime_server.code-workspace
+gun.pt
+mask.pt
+pi_server.py
+yolov8n.pt
+
+running output videos/
+test images/
+suspicious_detections/
