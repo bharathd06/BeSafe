@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect
 import os
 import requests
-
+#main
 app = Flask(__name__)
 RESULT_FOLDER = "static/results"
 os.makedirs(RESULT_FOLDER, exist_ok=True)
