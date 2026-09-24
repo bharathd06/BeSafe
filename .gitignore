@@ -1,0 +1,45 @@
+﻿# Virtual Environments
+venv/
+env/
+ENV/
+crime_server/venv/
+.venv/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Large media files (videos & audio)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+4THEL/
+running output videos/
+crime_server/received_videos/
+web_app/test9.mp4
+1RV23CS062*.mp4
+output_video.mp4
+output_combined.mp4
+
+# Output / generated detection frames & zips
+suspicious_detections/
+suspicious_frames/
+suspicious_detections.zip
+*.zip
+*.tar.gz
+*.rar
+web_app/static/results/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.partial
+.idea/
+.vscode/
+*.code-workspace
